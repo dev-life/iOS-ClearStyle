@@ -37,19 +37,19 @@
         _toDoItems = [[NSMutableArray alloc] init];
         [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Feed the cat"]];
         [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Buy eggs"]];
-        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Pack bags for WWDC"]];
-        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Rule the web"]];
-        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Buy a new iPhone"]];
-        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Find missing socks"]];
-        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Write a new tutorial"]];
-        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Master Objective-C"]];
-        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Remember your wedding anniversary!"]];
-        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Drink less beer"]];
-        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Learn to draw"]];
-        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Take the car to the garage"]];
-        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Sell things on eBay"]];
-        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Learn to juggle"]];
-        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Give up"]];
+//        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Pack bags for WWDC"]];
+//        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Rule the web"]];
+//        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Buy a new iPhone"]];
+//        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Find missing socks"]];
+//        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Write a new tutorial"]];
+//        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Master Objective-C"]];
+//        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Remember your wedding anniversary!"]];
+//        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Drink less beer"]];
+//        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Learn to draw"]];
+//        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Take the car to the garage"]];
+//        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Sell things on eBay"]];
+//        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Learn to juggle"]];
+//        [_toDoItems addObject:[SHCToDoItem toDoItemWithText:@"Give up"]];
     }
     return self;
 }
